@@ -13,6 +13,6 @@ abstract class Spice(
         } else {
             0
         }
- 
+
     }
 }
