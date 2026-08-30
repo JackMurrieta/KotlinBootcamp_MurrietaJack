@@ -11,6 +11,6 @@ class Ejercicio2 {
 
         // val no se puede reasignar
         val blockColor: String = "negro";
-        println("blockColor : ${blockColor}"); )
+        println("blockColor : ${blockColor}");
     }
 }
