@@ -1,7 +1,7 @@
 package edu.itson.jackMurrieta.Moodulo4.Spices
 
 
-abstract class Spice(
+sealed class Spice(
     val nameSpice: String,
     val levelSpiciness: String
 ) : SpiceColor {
