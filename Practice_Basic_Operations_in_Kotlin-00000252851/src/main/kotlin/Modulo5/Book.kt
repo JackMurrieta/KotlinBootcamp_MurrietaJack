@@ -14,4 +14,3 @@ class Book(
         return Triple(title, author, year)
     }
 }
-}
